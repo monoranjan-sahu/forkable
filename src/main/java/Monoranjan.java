@@ -7,6 +7,6 @@ public class Monoranjan {
     }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        System.out.println(new Monoranjan().getGreeting());
     }
 }
